@@ -1,5 +1,4 @@
 # RAM-ROM-Design
-# RAM-ROM-Design
 
 This repository features Verilog designs for three different memory modules: a 64x8 Single Port RAM, a 64x8 Dual Port RAM, and an 8x8 ROM. Each module is designed to serve specific memory-related functionalities and can be used independently in larger digital systems.
 
